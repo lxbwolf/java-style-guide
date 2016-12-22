@@ -1,2 +1,6 @@
 # java-style-guide
-java coding standard
+
+出处: https://google.github.io/styleguide/javaguide.html
+
+Google Java编程风格规范的完整定义
+
